@@ -1,16 +1,47 @@
-# Привет! Я Думан 👋
+# Hi, I'm Duman 👋
 
-Python-разработчик, специализируюсь на создании Telegram-ботов и автоматизации процессов (парсинг данных). 
+### Backend Developer in Progress
 
-### 🛠️ Стек технологий:
-- **Language:** Python 3.x
-- **Frameworks:** aiogram 3.x (FSM, Inline Keyboards)
-- **Data Parsing:** BeautifulSoup4, Requests
-- **Databases:** SQLite
-- **Tools:** Git, GitHub, Linux (Deployment)
+I'm a Python developer focused on backend development,
+Telegram bots and AI-powered applications.
 
-### 🚀 Мои главные проекты:
-- **Finance Tracker Bot:** Телеграм-бот для учета личных финансов. Включает автоматические еженедельные отчеты и встроенный парсер вакансий с HeadHunter (HH), работающий по расписанию каждые 6 часов.
+Currently learning:
+- Python
+- FastAPI
+- SQL / PostgreSQL
+- Docker
+- REST API
+- DevOps
 
----
-*Постоянно развиваюсь, пишу чистый асинхронный код и создаю инструменты, которые решают реальные задачи.*
+### 🚀 Projects
+
+#### 💰 Finance Tracker Bot
+AI-powered Telegram bot for tracking personal finances.
+
+- Python
+- Telegram Bot API
+- AI API
+- Categories and expense tracking
+
+#### 📋 Task Flow
+Task management Telegram bot.
+
+- Python
+- SQL
+- Telegram Bot API
+
+#### 🤖 Miku Bot
+...
+
+### 🛠 Tech Stack
+
+Python • FastAPI • SQL • PostgreSQL • Docker • Git • Linux
+
+### 📚 Currently learning
+
+FastAPI → Backend → Docker → DevOps
+
+### 📫 Contacts
+
+LinkedIn: ...
+Telegram: ...
