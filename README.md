@@ -1,6 +1,6 @@
 # Hi, I'm Duman 👋
 
-### Backend Developer in Progress
+### Python Developer (Telegram Bots & AI)
 
 I'm a Python developer focused on backend development,
 Telegram bots and AI-powered applications.
